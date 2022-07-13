@@ -18,16 +18,16 @@ require (
 	github.com/vmware-tanzu/tanzu-framework v0.9.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	k8s.io/api v0.23.4
-	k8s.io/apiextensions-apiserver v0.23.4
-	k8s.io/apimachinery v0.23.4
-	k8s.io/client-go v0.23.4
+	k8s.io/api v0.23.5
+	k8s.io/apiextensions-apiserver v0.23.5
+	k8s.io/apimachinery v0.23.5
+	k8s.io/client-go v0.23.5
 	k8s.io/klog/v2 v2.40.1
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
 	knative.dev/pkg v0.0.0-20220302134643-d2cdc682d974
-	sigs.k8s.io/cluster-api v1.1.3
-	sigs.k8s.io/cluster-api-provider-vsphere v1.1.0
-	sigs.k8s.io/controller-runtime v0.11.1
+	sigs.k8s.io/cluster-api v1.1.5
+	sigs.k8s.io/cluster-api-provider-vsphere v1.3.1
+	sigs.k8s.io/controller-runtime v0.11.2
 )
 
 require (
@@ -43,7 +43,7 @@ require (
 	github.com/blendle/zapdriver v1.3.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/coredns/caddy v1.1.1 // indirect
-	github.com/coredns/corefile-migration v1.0.14 // indirect
+	github.com/coredns/corefile-migration v1.0.17 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible // indirect
@@ -88,7 +88,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	k8s.io/cluster-bootstrap v0.23.4 // indirect
-	k8s.io/component-base v0.23.4 // indirect
+	k8s.io/component-base v0.23.5 // indirect
 	k8s.io/kube-openapi v0.0.0-20220124234850-424119656bbf // indirect
 	k8s.io/kubectl v0.23.4 // indirect
 	sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2 // indirect
